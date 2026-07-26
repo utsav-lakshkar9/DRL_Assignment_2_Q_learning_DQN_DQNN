@@ -1,7 +1,7 @@
 import gymnasium as gym
 import csv
 
-from env.modified_lunarlander import ModifiedLunarLander
+from environment.modified_lunarlander import ModifiedLunarLander
 
 
 EPISODES = 200
