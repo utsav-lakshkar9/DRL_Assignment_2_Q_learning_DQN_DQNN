@@ -1,0 +1,9 @@
+Metric,Value
+Episodes,200
+Thruster Actions,13195
+Failed Thrusters,1945
+Failure Rate (%),14.74
+Fuel Penalties,13195
+Safe Landings,7
+Failure Rate Approx. 15%,True
+Fuel Penalties == Thruster Actions,True
