@@ -1,0 +1,5 @@
+numpy
+matplotlib
+pandas
+gymnasium[box2d]
+torch
