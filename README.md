@@ -1,7 +1,6 @@
-# DRL_Assignment_2_Q_learning_DQN_DQNN
-## Robust Reinforcement Learning under Stochastic Action Failure
+# Robust Reinforcement Learning under Stochastic Action Failure
 
-# Question
+## Question
 
 The LunarLander-v3 environment in Gymnasium consists of:
 
